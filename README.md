@@ -17,7 +17,7 @@ tdToolz is the foundation every other traube.dev mod is built on - it gives ever
 ## Requirements
 - Wobbly Life (via Steam)
 - BepInEx 5.x
-- `HideManagerGameObject = true` under `[Chainloader]` in `BepInEx/config/BepInEx.cfg` - since Wobbly Life v1.1, the game sweeps up and destroys unrecognized objects shortly after the main menu loads, which takes the mod down with it unless this is set. Already included if you use the `+deps` download below; only needs setting by hand if you're dropping the plain download into an existing BepInEx install
 
 ## Installation
-See [traube.dev/docs](https://traube.dev/docs.html) for the general BepInEx + mod install walkthrough.
+See [traube.dev/docs](https://traube.dev/docs.html) for the general BepInEx + mod install walkthrough. No manual `BepInEx.cfg` editing needed - tdToolz protects itself (and every mod built on it) from the game's scene-cleanup automatically on every launch.
+
