@@ -2,6 +2,7 @@
 name: tdToolz
 tagline: Shared framework and settings menu (F2) used by all traube.dev mods - plus its own chat, permissions, and host tools
 thumbnail: thumbnail.png
+icon: icon.svg
 ---
 
 tdToolz is the foundation every other traube.dev mod is built on - it gives every mod a shared, consistent F2 settings menu instead of each one bringing its own separate UI, and it comes with its own set of host and multiplayer tools on top of that.
