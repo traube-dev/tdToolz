@@ -1,6 +1,7 @@
 ---
 name: tdToolz
 tagline: A Wobbly Life Library/Tool-collection used by traube.dev mods.
+thumbnail: thumbnail.png
 ---
 
 tdToolz is used by any other mod on https://traube.dev/.
