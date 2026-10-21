@@ -1,7 +1,8 @@
 ---
 name: tdToolz
 tagline: Shared framework and settings menu (F2) used by all traube.dev mods - plus its own chat, permissions, security, and host tools
-thumbnail: thumbnail.png
+thumbnail: thumbnail.jpg
+thumbnail_webp: thumbnail.webp
 icon: icon.svg
 ---
 
